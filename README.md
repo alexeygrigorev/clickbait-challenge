@@ -14,3 +14,5 @@ The idea:
 - Combine these 4+4 models with one ET model
 
 The images were not used in this approach 
+
+Report: https://arxiv.org/abs/1710.00399
